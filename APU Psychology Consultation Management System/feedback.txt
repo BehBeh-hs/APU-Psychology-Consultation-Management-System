@@ -1,0 +1,4 @@
+FB001,AP003,L001,tom,Lecturer,0,Very Good,false
+FB002,AP003,L001,tom,Lecturer,0,Nice,false
+FB003,AP003,S001,ben,Student,5,Nice,true
+FB004,AP003,S001,ben,Student,4,ok,false
